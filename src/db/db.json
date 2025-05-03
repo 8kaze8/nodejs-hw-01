@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "a19406b3-35e6-4ac0-a280-80e4b9033a17",
+    "name": "Clint Balistreri",
+    "phone": "442.627.5677 x081",
+    "email": "Jana.Rutherford47@yahoo.com",
+    "job": "Product Program Planner"
+  },
+  {
+    "id": "6c596f40-c7c1-4f1f-ac7c-14b55831ead2",
+    "name": "Erma Wolf",
+    "phone": "304-810-9745 x230",
+    "email": "Chasity94@hotmail.com",
+    "job": "Global Identity Engineer"
+  }
+]
